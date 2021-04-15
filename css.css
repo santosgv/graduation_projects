@@ -16,24 +16,13 @@ body {
 
 .comentarios{
     font-family: sans-serif;
-    font-size: 30px;
+    font-style: bold;
+    font-size: 40px;
     text-align: center;
     margin: 10px;
     padding: 10px;
 }
 
 #comentario1{
-    color: red;
-}
-
-#comentario2{
-    color: rgb(233, 29, 182);
-}
-
-#comentario3{
-    color: rgb(15, 29, 221);
-}
-
-#comentario4{
-    color: rgb(61, 209, 24);
+    color: blue;
 }
